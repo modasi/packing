@@ -25,8 +25,8 @@ This tool automates the process of packaging and signing applications for both m
 1. Clone this repository:
 
    ```
-   git clone ...url
-   cd ...dir
+   git clone https://github.com/modasi/packing.git
+   cd packing
    ```
 2. Edit the `config.py` file to set your application details and certificate information.
 3. Generate certificates:
